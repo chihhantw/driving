@@ -12,3 +12,5 @@ elif country == '美國':
 		print('你有資格考汽車駕照唷！')
 	else:
 		print('我想你還是等等吧！')
+else:
+	print('目前只提供查詢台灣或美國的資訊唷！')
